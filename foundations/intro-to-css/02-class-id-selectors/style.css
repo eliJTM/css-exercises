@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sanssans-serif;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#blueID {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
